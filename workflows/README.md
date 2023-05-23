@@ -20,7 +20,7 @@ Use Release workflows to quickly onboard on Release and Deploy. Use these workfl
 
 ## Setting up Workflows
 
-Fork this [repository](https://github.com/xebialabs-community/howto)
+Fork this [repository](https://github.com/digital-ai/howto))
 
 In Digital.ai Release, 
 1. Create a new folder.
@@ -28,7 +28,7 @@ In Digital.ai Release,
 3. Click on Configure button on the top left.
 4. Under Git Repository, click on the New Repository link.
 5. Create a new connection by specifying the details of the Forked Repository.
-6. Specify the branch as master and specify the Repository path as 'applicationWorkflows' and save.
+6. Specify the branch as master and specify the Repository path as 'workflows' and save.
 ![configure](images/gitops-versioning.png)
 7. Under the connection Screen, create a connection for the target deploy server under the name Deploy Server1
 8. Back in the Version Control screen, select the latest version displayed and click 'Apply this version'.
