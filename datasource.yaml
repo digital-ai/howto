@@ -1,0 +1,12 @@
+# Exported from:        http://host.docker.internal:5516/
+# Release version:      23.1.0-rc.3
+# Date created:         Wed May 24 10:49:53 UTC 2023
+
+---
+metadata:
+  home: Tomcat Workflows
+  author : digital-ai
+  repo : https://github.com/digital-ai/howto
+  branch: temp_branch
+  path : datasource.yaml
+  raw_path: https://raw.githubusercontent.com/digital-ai/howto/master/workflows/Templates.yaml
