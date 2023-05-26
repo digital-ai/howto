@@ -7,14 +7,8 @@ apiVersion: xl-release/v1
 kind: Templates
 
 metadata:
-  home: Tomcat Workflows
-  author : digital-ai
-  repo : https://github.com/digital-ai/howto
-  branch: temp_branch
-  path : datasource.yaml
-  raw_path: https://raw.githubusercontent.com/digital-ai/howto/temp_branch/datasource.yaml
-
-
+  home: {INSTALLATION_FOLDER}
+  
 spec:
 - template: Tomcat DataSource Setup on SSH Host with Digital.ai Deploy
   description: "Easily create an application in Digital.ai Deploy that can be used\
