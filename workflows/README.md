@@ -20,7 +20,7 @@ Use Release workflows to quickly onboard on Release and Deploy. Use these workfl
 
 ## Setting up Workflows
 
-Fork this [repository](https://github.com/xebialabs-community/howto)
+Fork this [repository](https://github.com/digital-ai/howto)
 
 In Digital.ai Release, 
 1. Create a new folder.
